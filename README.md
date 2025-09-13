@@ -1,4 +1,4 @@
-#### Credit Card Fraud Detection
+## Credit Card Fraud Detection
 
 This project implements fraud detection on credit card transactions using multiple machine learning models, advanced data visualization, and evaluation metrics. It uses the Kaggle Credit Card Fraud Dataset, which contains anonymized transaction data labeled as fraudulent (Class = 1) or legitimate (Class = 0).
 
